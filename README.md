@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A4F778&repeat=false&width=500&lines=Hi+coder+I'm+Karla+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-<div align="center">
+<div>
     <img width="200" src="assets/gif/cat-gif.gif">
 </div>
 
