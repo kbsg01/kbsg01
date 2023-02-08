@@ -1,14 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A4F778&repeat=false&width=500&lines=Hi+coder+I'm+Karla+%F0%9F%A4%96)](https://git.io/typing-svg)
-
-<div>
-    <img width="200" src="assets/gif/cat-gif.gif">
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A4F778&repeat=false&width=500&lines=Hi.+I'm+Karla+✌️)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A4F778&center=true&vCenter=true&width=435&lines=I%C2%B4m+a+Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
------
-# **About Me**
+# **About**
 - 🌍 I'm based in Chile.
 - 📌 Currently learning React.
 - 🎯 Always seeking to learn new things.
