@@ -4,7 +4,7 @@
 
 # **About**
 - 🌍 I'm based in Chile.
-- 📌 Currently learning React.
+- 📌 Currently learning React and C#.
 - 🎯 Always seeking to learn new things.
 <br>
 
