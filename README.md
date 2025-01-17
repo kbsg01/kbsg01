@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A4F778&repeat=false&width=500&lines=Hi.+I'm+Karla+✌️)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A4F778&center=true&vCenter=true&width=435&lines=I%C2%B4m+a+Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 # **About**
 - 🌍 I'm based in Chile.
 - 📌 Currently learning React and C#.
