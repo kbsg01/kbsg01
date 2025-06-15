@@ -1,6 +1,5 @@
 # **About**
 - 🌍 I'm based in Chile.
-- 📌 Currently learning React and C#.
 - 🎯 Always seeking to learn new things.
 <br>
 
@@ -9,7 +8,7 @@
 ## **My Skills & Tools**
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=java,js,md,html,css,bootstrap,aws,github,git,figma,spring,vscode,mysql&perline=7" />
+		<img src="https://skillicons.dev/icons?i=java,cs,ts,js,md,html,css,bootstrap,aws,github,azure,git,figma,postman,spring,angular,bash,vscode,visualstudio,mysql&perline=7" />
 	</a>
 </p>
 
